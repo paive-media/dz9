@@ -7,3 +7,5 @@
 [9.2 Zabbix. Часть 1](9-2/readme.md)
 
 
+[9.3 Zabbix. Часть 2](9-3/readme.md)
+
