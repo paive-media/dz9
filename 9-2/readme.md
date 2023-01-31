@@ -52,7 +52,7 @@ sudo nano /etc/zabbix/zabbix_agentd.conf
 
 ```
 
-![task2 screen5](https://github.com/paive-media/dz9/blob/main/9-2/dz9_2_screen5.png "terraform erorrs: apply")
+![task2 screen5](https://github.com/paive-media/dz9/blob/main/9-2/dz9_2_screen5-1.png "terraform erorrs: apply")
 
 ![task2 screen9](https://github.com/paive-media/dz9/blob/main/9-2/dz9_2_screen9.png "terraform erorrs: init")
 
