@@ -39,7 +39,7 @@ sudo nano /etc/zabbix/zabbix_server.conf
 sudo nano /etc/zabbix/zabbix_agentd.conf
 ```
 
-Ошибки terraform - как правильно указать команды для pgsql в main.tf?
+Ошибки `terraform` - **Как правильно указать команды для pgsql в main.tf**?
 
 ```sh
 
